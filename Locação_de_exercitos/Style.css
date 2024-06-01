@@ -1,0 +1,81 @@
+#Aviao{
+    width: 200px;
+    height: 200px;
+}
+#Navio{
+    width: 200px;
+    height: 200px;
+}
+#Tanque{
+    width: 200px;
+    height: 200px;
+}
+#total{
+    width: 1578px;
+    height: 780px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+}
+#background{
+    width: 1578px;
+    height: 780px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* exercito */
+
+#exercito_total{
+    width: 1578px;
+    height: 780px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+#soldado{
+    width: 200px;
+    height: 200px;
+}
+#tankes{
+    width: 200px;
+    height: 200px;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+
+
+
+
+/*soldados*/
+
+#soldado_total{
+    width: 1578px;
+    height: 780px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+#soldado01{
+    width: 200px;
+    height: 200px;
+}
+#soldado02{
+    width: 200px;
+    height: 200px;
+}
+#soldado03{
+    width: 200px;
+    height: 200px;
+}
+#soldado04{
+    width: 200px;
+    height: 200px;
+}
